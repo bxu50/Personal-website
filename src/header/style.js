@@ -3,7 +3,6 @@ export const HeaderWrapper = styled.div`
   position: relative;
   height: 100px;
   width: 100%;
-  background-color: white;
 `;
 
 export const Nav = styled.div`
